@@ -1,0 +1,19 @@
+{
+  "name": "web-budaya-indonesia_weiny-marchelina-bali",
+  "version": "1.0.0",
+  "description": "Oleh Weiny Marchelina dari Bali",
+  "main": "script.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weinymarchelina/web-design-budaya-indonesia.git"
+  },
+  "author": "Weiny Marchelina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weinymarchelina/web-design-budaya-indonesia/issues"
+  },
+  "homepage": "https://github.com/weinymarchelina/web-design-budaya-indonesia#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
