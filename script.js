@@ -76,3 +76,31 @@ boxes.forEach((box) => {
     // });
   });
 });
+
+// const options = document.querySelectorAll("option");
+// const select = document.querySelector(".lang-select");
+// const selectValue = select.options[select.selectedIndex].value;
+// console.log(options);
+// console.log(select);
+// console.log(selectValue);
+
+// function update() {
+//   const select = document.querySelector(".lang-select");
+//   const option = select.options[select.selectedIndex];
+
+//   console.log(option.text);
+//   console.log(option.value);
+//   console.log("Clicked");
+
+//   console.log(window.location.href);
+
+//   if (option.value !== "id") {
+//     window.location.href = `/lang/${option.value}-version.html`;
+//     return;
+//   } else {
+//     window.location.href = "#";
+//     return;
+//   }
+// }
+
+// update();
